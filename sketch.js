@@ -36,10 +36,6 @@ if(keyWentDown(UP_ARROW)){
   dog.addImage(happydogImg);
 }
 
-if(keyWentUp(UP_ARROW)){
-dog.addImg(dogImg);
-}
-
 textSize(17);
   fill("black");
   text("Hello, I am your puppy! I am Hungry ",100,150);
