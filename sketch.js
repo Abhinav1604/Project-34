@@ -32,7 +32,7 @@ if(foodS !== undefined){
 
 
 if(keyWentDown(UP_ARROW)){
-  writestock(foodS);
+  writeStock(foodS);
   dog.addImage(happydogImg);
 }
 
